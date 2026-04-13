@@ -1,1 +1,1 @@
-https://dziugasj123.github.io/weatherapp-js/
+https://dziugas-j.github.io/weatherapp-js/
